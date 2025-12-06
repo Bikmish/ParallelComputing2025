@@ -1,0 +1,5 @@
+Summary:
+  Max inaccuracy: 2.04149e-09
+  First step inaccuracy: 2.42739e-12
+  Last step inaccuracy: 2.04149e-09
+  Total time: 338.489 seconds

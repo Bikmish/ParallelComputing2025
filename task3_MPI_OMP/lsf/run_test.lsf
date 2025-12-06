@@ -1,0 +1,6 @@
+#BSUB -n 8
+#BSUB -o "out_256_20_8_1.%J.out"
+#BSUB -e "err_256_20_8_1.%J.err"
+#BSUB -R "affinity[core(1)]"
+#BSUB -m "polus-c3-ib polus-c4-ib"
+OMP_NUM_THREADS=1 mpiexec -n 8 ../solverMPI 256 Pi 8

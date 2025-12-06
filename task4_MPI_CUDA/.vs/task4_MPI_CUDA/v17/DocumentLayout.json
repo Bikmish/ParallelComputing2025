@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\timer.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:timer.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\mpi_utils.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mpi_utils.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\halo_ops.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:halo_ops.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\utils.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\solver.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:solver.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\main.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\lsf\\run_cuda_256_20_8_1.lsf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lsf\\run_cuda_256_20_8_1.lsf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\lsf\\run_2cuda_256_20_8_1.lsf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lsf\\run_2cuda_256_20_8_1.lsf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "run_2cuda_256_20_8_1.lsf",
+              "DocumentMoniker": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\lsf\\run_2cuda_256_20_8_1.lsf",
+              "RelativeDocumentMoniker": "lsf\\run_2cuda_256_20_8_1.lsf",
+              "ToolTip": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\lsf\\run_2cuda_256_20_8_1.lsf",
+              "RelativeToolTip": "lsf\\run_2cuda_256_20_8_1.lsf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-02T12:53:11.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "run_cuda_256_20_8_1.lsf",
+              "DocumentMoniker": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\lsf\\run_cuda_256_20_8_1.lsf",
+              "RelativeDocumentMoniker": "lsf\\run_cuda_256_20_8_1.lsf",
+              "ToolTip": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\lsf\\run_cuda_256_20_8_1.lsf",
+              "RelativeToolTip": "lsf\\run_cuda_256_20_8_1.lsf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-01T10:44:41.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "timer.h",
+              "DocumentMoniker": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\timer.h",
+              "RelativeDocumentMoniker": "timer.h",
+              "ToolTip": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\timer.h",
+              "RelativeToolTip": "timer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-01T12:03:27.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mpi_utils.h",
+              "DocumentMoniker": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\mpi_utils.h",
+              "RelativeDocumentMoniker": "mpi_utils.h",
+              "ToolTip": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\mpi_utils.h",
+              "RelativeToolTip": "mpi_utils.h",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAIwNsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-01T10:49:40.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "halo_ops.h",
+              "DocumentMoniker": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\halo_ops.h",
+              "RelativeDocumentMoniker": "halo_ops.h",
+              "ToolTip": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\halo_ops.h",
+              "RelativeToolTip": "halo_ops.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T11:45:55.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "utils.h",
+              "DocumentMoniker": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\utils.h",
+              "RelativeDocumentMoniker": "utils.h",
+              "ToolTip": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\utils.h",
+              "RelativeToolTip": "utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T13:05:00.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "solver.h",
+              "DocumentMoniker": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\solver.h",
+              "RelativeDocumentMoniker": "solver.h",
+              "ToolTip": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\solver.h",
+              "RelativeToolTip": "solver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T13:05:01.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABEAAAAANDMzMzMbwAoBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T13:04:52.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\Makefile",
+              "RelativeDocumentMoniker": "Makefile",
+              "ToolTip": "C:\\Users\\LocalAdmin\\workspace\\cmc\\6 \u043A\u0443\u0440\u0441\\\u0421\u0443\u043F\u0435\u0440\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u044B\\Tasks (OMP, MPI, CUDA)\\task4_MPI_CUDA\\Makefile",
+              "RelativeToolTip": "Makefile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-29T15:40:32.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

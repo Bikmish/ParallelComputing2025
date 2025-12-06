@@ -1,0 +1,8 @@
+#BSUB -n 8
+#BSUB -o "out_cuda_256_20_8_1.%J.out"
+#BSUB -e "err_cuda_256_20_8_1.%J.err"
+#BSUB -R "affinity[core(1)]"
+#BSUB -m "polus-c3-ib polus-c4-ib"
+#BSUB -gpu "num=1:mode=shared"
+
+mpiexec -n 8 ../solverCUDA 256 Pi 8
